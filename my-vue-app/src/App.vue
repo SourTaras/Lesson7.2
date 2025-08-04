@@ -9,7 +9,7 @@
 <script>
 import HeaderComponent from "./components/Header.vue"
 import MessageComponent from "./components/MessageComponent.vue"
-import BusinessComponent from "./components/Business.vue
+import BusinessComponent from "./components/Business.vue"
 
 export default {
   components: {
